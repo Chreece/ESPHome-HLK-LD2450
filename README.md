@@ -1,3 +1,10 @@
+<!-- ko-fi-support -->
+<p align="center">
+  <a href="https://ko-fi.com/chreece">
+    <img src="https://raw.githubusercontent.com/Chreece/pir2ha/main/.github/ko-fi-banner.svg" alt="Support Chreece on Ko-fi" width="600">
+  </a>
+</p>
+
 # ESPHome Hi-Link HKL-LD2450 [![CI](https://github.com/TillFleisch/ESPHome-HLK-LD2450/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/TillFleisch/ESPHome-HLK-LD2450/actions/workflows/ci.yaml)
 
 This external [ESPHome](https://esphome.io) component adds support for the [Hi-Link HKL-LD2450](https://www.hlktech.net/index.php?id=1157) Human presence sensor to ESPHome.
